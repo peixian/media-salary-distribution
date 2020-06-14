@@ -2,7 +2,7 @@
 
 Using https://docs.google.com/spreadsheets/d/1SP3Sqqdv6R8chFamjtgdNlOrUar-hJXvkMSeha2mHQ8/edit#gid=0, this repo does some basic ETL on the data and attempts to see the distribution of media salaries.
 
-* Conclusions (also see https://github.com/peixian/media-salary-distribution/blob/master/media-salary-distribution.ipynb)
+* Conclusions (also see [https://render.githubusercontent.com/view/ipynb?commit=040f242ecac408495a1cf519e5b8062327a525d4&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f7065697869616e2f6d656469612d73616c6172792d646973747269627574696f6e2f303430663234326563616334303834393561316366353139653562383036323332376135323564342f6d656469612d73616c6172792d646973747269627574696f6e2e6970796e62&nwo=peixian%2Fmedia-salary-distribution&path=media-salary-distribution.ipynb&repository_id=272113422&repository_type=Repository#Conclusion](Notebook conclusions))
 In conclusion, media salaries seem largely normally distributed, as most seem to cluster around somewhere between the 70-100k range between the first 10 years.
 
 However, interestingly enough, it seems that there is largely a "cap" on media salaries past 15 years. The data stops correlating, and largely loses its predictive value. This probably represents the "peak" earnings of a specific type of media job (journalist, associate, etc) that can be reached without pushing into management territory.
